@@ -5,6 +5,8 @@
 <br />
 
 ![Website](https://img.shields.io/website?down_color=grey&down_message=BONK&label=HINZWIFI.github.io&style=for-the-badge&up_color=GREEN&up_message=running&url=https%3A%2F%2Fhinzwifi.github.io)
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/hinzwifi?color=light%20green&style=for-the-badge)
+
 <br />
 
 ## I'm a total beginner who is learning right now
