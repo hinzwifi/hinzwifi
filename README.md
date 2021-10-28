@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on Javascript
 - 🌴 I’m currently learning everything 🙈
-- 📫 How to reach me: [hinzwifi.github.io](https://hinzwifi.github.io)
+- 📫 How to reach me: [hinzwifi.xyz](https://hinzwifi.xyz)
 - ⚡ My goal is to contribute to Open Source projects
 - 😄 Fun fact: I started learning this year
 
