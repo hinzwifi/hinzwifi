@@ -11,7 +11,7 @@
 
 ## I'm a total beginner who is learning right now
 
-- 🔭 I’m currently working on Javascript
+- 🔭 I’m currently working on MERN Stack
 - 🌴 I’m currently learning everything 🙈
 - 📫 How to reach me: [hinzwifi.xyz](https://hinzwifi.xyz)
 - ⚡ My goal is to contribute to Open Source projects
