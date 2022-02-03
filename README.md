@@ -6,7 +6,7 @@
     <img
       width="256"
       align="right"
-      src="https://github.com/hinzwifi/hinzwifi/blob/master/devcard.svg"
+      src="https://github.com/hinzwifi/hinzwifi/blob/0b7a4b7c8c4b6836617956ff9c19e226a548e5e2/devcard.svg"
     />
   </a>
 </div>
