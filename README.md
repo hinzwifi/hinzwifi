@@ -17,6 +17,7 @@
 - 🔭 I’m currently focusing on JS related stuff.
 - 📫 How to reach me: [hinzwifi.xyz](https://hinzwifi.xyz)
 - 🌭 My goal is to contribute to Open Source projects
+- I want to learn and absorb more javascript stuff
 
 ![Metrics](https://github.com/hinzwifi/hinzwifi/blob/main/github-metrics.svg)
 
