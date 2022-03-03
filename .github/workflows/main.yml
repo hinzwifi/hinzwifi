@@ -24,8 +24,7 @@ jobs:
           # Options
           user: hinzwifi
           template: classic
-          base: header, repositories
-          config_octicon: yes
+          base: header
           config_timezone: Asia/Manila
           plugin_achievements: yes
           plugin_achievements_display: compact
